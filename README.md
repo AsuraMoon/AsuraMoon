@@ -1,5 +1,10 @@
 ### Hi there 👋
 ### What's up buddy?
+I'm Fredenucci "AsuraMoon" Julien, but you can call me **Asu** 😁
+I'm a Web developper apprentice by now
+Welcome to my GitHubby 💕
+You can contact me with email : #Unknownbynow
+Or my phone number +33 6 000 000 000 
 
 <!--
 **AsuraMoon/AsuraMoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
