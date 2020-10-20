@@ -6,6 +6,12 @@ Welcome to my GitHubby 💕
 You can contact me with email : #Unknownbynow
 Or my phone number +33 6 000 000 000 
 
+Je me présente Fredenucci "AsuraMoon Julien, mais vous pouvez m'appeler **Asu**
+Je suis un développeur wen en apprentissage
+Bienvenue sur mon GitHub
+Vous pouvez me contacter par email : #Inconnupourl'instant
+Ou mon numéro de tel +33 6 000 000 000
+
 <!--
 **AsuraMoon/AsuraMoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
