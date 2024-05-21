@@ -14,7 +14,7 @@ Ou mon numéro de tel +33 6 26 05 57 77
 
 
 - 🔭 I’m currently working on a full recap application of all My Projects to make my Github clean
-- 🔭 Je travail actuellement sur une application recapitulative de tout mes projets pour avoir un Github Propre
+- 🔭 Je travaille actuellement sur une application récapitulative de tous mes projets afin d'avoir un GitHub propre
 
 <!--
 **AsuraMoon/AsuraMoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
