@@ -3,14 +3,18 @@
 I'm Fredenucci "AsuraMoon" Julien, but you can call me **Asu** 😁
 I'm a Web developper apprentice by now
 Welcome to my GitHubby 💕
-You can contact me with email : #Unknownbynow
-Or my phone number +33 6 000 000 000 
+You can contact me with email : jufredenucci@gmx.fr
+Or my phone number +33 6 26 05 57 77
 
 Je me présente Fredenucci "AsuraMoon Julien, mais vous pouvez m'appeler **Asu**
 Je suis un développeur wen en apprentissage
 Bienvenue sur mon GitHub
-Vous pouvez me contacter par email : #Inconnupourl'instant
-Ou mon numéro de tel +33 6 000 000 000
+Vous pouvez me contacter par email : jufredenucci@gmx.fr
+Ou mon numéro de tel +33 6 26 05 57 77
+
+
+- 🔭 I’m currently working on a full recap application of all My Projects to make my Github clean
+- 🔭 Je travail actuellement sur une application recapitulative de tout mes projets pour avoir un Github Propre
 
 <!--
 **AsuraMoon/AsuraMoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
