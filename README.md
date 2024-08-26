@@ -1,13 +1,13 @@
 ### Hi there 👋
 ### What's up buddy?
 I'm Fredenucci "AsuraMoon" Julien, but you can call me **Asu** 😁
-I'm a Web developper apprentice by now
+I'm a confirmed Web Developper (3y)
 Welcome to my GitHubby 💕
 You can contact me with email : jufredenucci@gmx.fr
 Or my phone number +33 6 26 05 57 77
 
 Je me présente Fredenucci "AsuraMoon Julien, mais vous pouvez m'appeler **Asu**
-Je suis un développeur wen en apprentissage
+Je suis un développeur web Confirmé (3ans)
 Bienvenue sur mon GitHub
 Vous pouvez me contacter par email : jufredenucci@gmx.fr
 Ou mon numéro de tel +33 6 26 05 57 77
