@@ -1,20 +1,25 @@
-### Hi there 👋
-### What's up buddy?
-I'm Fredenucci "AsuraMoon" Julien, but you can call me **Asu** 😁
-I'm a confirmed Web Developper (3y)
-Welcome to my GitHubby 💕
-You can contact me with email : jufredenucci@gmx.fr
-Or my phone number +33 6 26 05 57 77
+### Hi there 👋  
+### What's up, buddy?  
+I'm **Fredenucci "AsuraMoon" Julien**, but you can call me **Asu** 😁  
+I'm a seasoned **Web Developer** with over **3 years of experience**.  
+Welcome to my **GitHubby** 💕  
+Feel free to reach out to me at **jufredenucci@gmx.fr**  
+Or contact me via phone: **+33 6 26 05 57 77**  
 
-Je me présente Fredenucci "AsuraMoon Julien, mais vous pouvez m'appeler **Asu**
-Je suis un développeur web Confirmé (3ans)
-Bienvenue sur mon GitHub
-Vous pouvez me contacter par email : jufredenucci@gmx.fr
-Ou mon numéro de tel +33 6 26 05 57 77
+---
 
+**Bonjour à tous 👋**  
+Je me présente, **Fredenucci "AsuraMoon" Julien**, mais vous pouvez m'appeler **Asu** 😁  
+Je suis un **développeur web confirmé** avec plus de **3 ans d'expérience**.  
+Bienvenue sur mon **GitHub** 💕  
+Vous pouvez me contacter par **email** : **jufredenucci@gmx.fr**  
+Ou directement par téléphone : **+33 6 26 05 57 77**  
 
-- 🔭 I’m currently working on a full recap application of all My Projects to make my Github clean
-- 🔭 Je travaille actuellement sur une application récapitulative de tous mes projets afin d'avoir un GitHub propre
+---
+
+- 🔭 I’m currently working on a **comprehensive recap application** to showcase all my projects and keep my GitHub organized.
+- 🔭 Je travaille actuellement sur une **application récapitulative** de tous mes projets pour un GitHub plus propre et structuré.
+
 
 <!--
 **AsuraMoon/AsuraMoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
