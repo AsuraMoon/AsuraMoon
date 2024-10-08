@@ -2,7 +2,7 @@
 ### What's up, buddy?  
 I'm **Fredenucci "AsuraMoon" Julien**, but you can call me **Asu** 😁  
 I'm a seasoned **Web Developer** with over **3 years of experience**.  
-Welcome to my **GitHubby** 💕  
+Welcome to my **GitHub** 💕  
 Feel free to reach out to me at **jufredenucci@gmx.fr**  
 Or contact me via phone: **+33 6 26 05 57 77**  
 
