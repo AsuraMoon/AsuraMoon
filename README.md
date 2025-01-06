@@ -3,7 +3,7 @@
 I'm **Fredenucci "AsuraMoon" Julien**, but you can call me **Asu** 😁  
 I'm a seasoned **Javascript Developer** with over **3 years of experience**.  
 Welcome to my **GitHub** 💕  
-Feel free to reach out to me at **jufredenucci@gmx.fr**  
+Feel free to reach out to me at **jufredenucci@gmx.fr**  and **https://www.linkedin.com/in/julien-fredenucci/**
 Or contact me via phone: **+33 6 26 05 57 77**  
 
 ---
@@ -12,7 +12,7 @@ Or contact me via phone: **+33 6 26 05 57 77**
 Je me présente, **Fredenucci "AsuraMoon" Julien**, mais vous pouvez m'appeler **Asu** 😁  
 Je suis un **développeur Javascript** avec plus de **3 ans d'expérience**.  
 Bienvenue sur mon **GitHub** 💕  
-Vous pouvez me contacter par **email** : **jufredenucci@gmx.fr**  
+Vous pouvez me contacter par **email** : **jufredenucci@gmx.fr**  et **https://www.linkedin.com/in/julien-fredenucci/**
 Ou directement par téléphone : **+33 6 26 05 57 77**  
 
 ---
