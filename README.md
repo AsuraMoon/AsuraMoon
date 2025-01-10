@@ -15,12 +15,6 @@ Bienvenue sur mon **GitHub** 💕
 Vous pouvez me contacter par **email** : **jufredenucci@gmx.fr**
 Ou directement par téléphone : **+33 6 26 05 57 77**  
 
----
-
-- 🔭 I’m currently working on a **comprehensive recap application** to showcase all my projects and keep my GitHub organized.
-- 🔭 Je travaille actuellement sur une **application récapitulative** de tous mes projets pour un GitHub plus propre et structuré.
-
-
 <!--
 **AsuraMoon/AsuraMoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
