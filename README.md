@@ -4,7 +4,6 @@ I'm **Fredenucci "AsuraMoon" Julien**, but you can call me **Asu** 😁
 I'm a seasoned **Javascript Developer**.  
 Welcome to my **GitHub** 💕  
 Feel free to reach out to me at **jufredenucci@gmx.fr**
-Or contact me via phone: **+33 6 26 05 57 77**  
 
 ---
 
@@ -13,7 +12,6 @@ Je me présente, **Fredenucci "AsuraMoon" Julien**, mais vous pouvez m'appeler *
 Je suis un **développeur Javascript**.  
 Bienvenue sur mon **GitHub** 💕  
 Vous pouvez me contacter par **email** : **jufredenucci@gmx.fr**
-Ou directement par téléphone : **+33 6 26 05 57 77**  
 
 <!--
 **AsuraMoon/AsuraMoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
